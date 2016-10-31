@@ -1,0 +1,52 @@
+/* Attributes for IDs*/
+#header-nav {
+  border: 1 solid #505050;
+  background-color: #D0D0D0;
+}
+
+#answer{
+  font-style: italic;
+  color: #F07070;
+}
+
+/* Attributes for Classes*/
+.row{
+  margin: 1% 0% 1% 0%;
+}
+.instruction_box{
+  background-color: #C0C0F0;
+  color: #505050;
+  border: 1px solid #D0D0D0;
+  width: 98%;
+  margin: 0% 1% 0% 1%;
+}
+
+.input_box{
+  background-color: #C0C0F0;
+  color: #505050;
+  width: 48%;
+  height: 150px;
+  margin: 0% 1% 0% 1%;
+  padding: 1% 1% 1% 1%;
+  border: 1px solid #D0D0D0;
+}
+
+.main_container {
+  box-shadow: 3px 3px #A0A0A0;
+  border: 1px solid #505050;
+}
+
+/* Attributes for Tags*/
+.navbar-brand h1 {
+  color: #2020B0;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+body{
+  font-family: Arial, Sans-Serif;
+  font-size: 14px;
+}
